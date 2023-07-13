@@ -1,4 +1,4 @@
-Chapter 2: Understanding the Role of Feedback in Employee Development: Understanding the Different Types of Feedback
+Understanding the Different Types of Feedback
 ====================================================================================================================
 
 Understanding the different types of feedback is essential for effective feedback in the workplace. In this chapter, we will explore the types of feedback and their role in employee development.

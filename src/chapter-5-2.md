@@ -1,4 +1,4 @@
-Chapter 5: Receiving and Responding to Feedback: Navigating Emotional Reactions to Feedback
+Navigating Emotional Reactions to Feedback
 ===========================================================================================
 
 Receiving feedback is an essential part of personal and professional growth in the workplace. However, it can be challenging to receive feedback, particularly if it is critical or unexpected. In this chapter, we will explore strategies for receiving and responding to feedback, including how to navigate emotional reactions to feedback.

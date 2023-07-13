@@ -1,4 +1,4 @@
-Chapter 6: Addressing Performance Issues through Feedback: Identifying Performance Issues and Setting Clear Expectations
+Identifying Performance Issues and Setting Clear Expectations
 ========================================================================================================================
 
 Identifying performance issues and setting clear expectations is an essential part of addressing performance issues in the workplace. In this chapter, we will explore strategies for identifying performance issues and setting clear expectations.

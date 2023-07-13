@@ -1,4 +1,4 @@
-Chapter 5: Receiving and Responding to Feedback: Implementing Feedback Effectively to Achieve Personal and Professional Growth
+Implementing Feedback Effectively to Achieve Personal and Professional Growth
 ==============================================================================================================================
 
 Receiving and responding to feedback is essential for promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for implementing feedback effectively to achieve personal and professional growth.

@@ -1,4 +1,4 @@
-Chapter 2: Understanding the Role of Feedback in Employee Development: Recognizing the Benefits of Feedback for Employee Growth and Development
+Recognizing the Benefits of Feedback for Employee Growth and Development
 ===============================================================================================================================================
 
 Feedback plays a critical role in employee growth and development. In this chapter, we will explore the benefits of feedback in the workplace.

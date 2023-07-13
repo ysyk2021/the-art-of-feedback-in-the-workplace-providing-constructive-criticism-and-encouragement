@@ -1,4 +1,4 @@
-Chapter 1: Introduction to Feedback in the Workplace: Defining Feedback and its Importance in the Workplace
+Defining Feedback and its Importance in the Workplace
 ===========================================================================================================
 
 Feedback is a critical component of employee growth and development. In this chapter, we will define feedback and explore its importance in the workplace.

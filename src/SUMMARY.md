@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction to Feedback in the Workplace](chapter-1.md)
+- [Chapter 1: Introduction to Feedback in the Workplace](README.md)
   - [Defining feedback and its importance in the workplace](chapter-1-1.md)
   - [Historical perspectives on feedback theory and practice](chapter-1-2.md)
   - [The challenges and opportunities of providing feedback in the workplace](chapter-1-3.md)
@@ -33,9 +32,5 @@
   - [Creating feedback programs and initiatives](chapter-8-1.md)
   - [Scaling feedback practices across teams and organizations](chapter-8-2.md)
   - [Navigating cultural and organizational barriers to feedback](chapter-8-3.md)
-- [Chapter 9: Conclusion: Mastering the Art of Feedback](chapter-9.md)
-  - [The importance of feedback for personal and professional growth](chapter-9-1.md)
-  - [Best practices for providing and receiving feedback in the workplace](chapter-9-2.md)
-  - [Emerging trends and future directions in feedback theory and practice](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

@@ -1,4 +1,4 @@
-Chapter 3: Creating a Culture of Feedback: Establishing Norms and Expectations around Feedback
+Establishing Norms and Expectations around Feedback
 ==============================================================================================
 
 Establishing norms and expectations around feedback is essential for creating a culture of feedback in the workplace. In this chapter, we will explore the techniques and strategies necessary for setting clear standards and expectations for feedback.

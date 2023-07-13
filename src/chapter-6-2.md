@@ -1,4 +1,4 @@
-Chapter 6: Addressing Performance Issues through Feedback: Addressing Performance Issues through Constructive Feedback
+Addressing Performance Issues through Constructive Feedback
 ======================================================================================================================
 
 Addressing performance issues is an essential part of promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for addressing performance issues through constructive feedback.

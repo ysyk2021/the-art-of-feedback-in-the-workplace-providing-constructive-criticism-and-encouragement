@@ -1,4 +1,4 @@
-Chapter 7: Encouraging Positive Performance Through Feedback: Encouraging Continuous Learning and Development through Feedback
+Encouraging Continuous Learning and Development through Feedback
 ==============================================================================================================================
 
 Encouraging positive performance through feedback is essential for promoting continuous learning and development in the workplace. In this chapter, we will explore strategies for encouraging positive performance through feedback.

@@ -1,4 +1,4 @@
-Chapter 3: Creating a Culture of Feedback: Building Trust and Rapport among Colleagues
+Building Trust and Rapport among Colleagues
 ======================================================================================
 
 Creating a culture of feedback is essential for effective coaching and mentoring in the workplace. In this chapter, we will explore the techniques and strategies necessary for building trust and rapport among colleagues.

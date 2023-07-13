@@ -1,4 +1,4 @@
-Chapter 2: Understanding the Role of Feedback in Employee Development: Identifying Factors that Contribute to Effective Feedback
+Identifying Factors that Contribute to Effective Feedback
 ================================================================================================================================
 
 Understanding the role of feedback in employee development is essential for effective feedback in the workplace. In this chapter, we will explore the factors that contribute to effective feedback.

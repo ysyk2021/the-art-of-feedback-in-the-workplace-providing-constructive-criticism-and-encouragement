@@ -1,4 +1,4 @@
-Chapter 4: Providing Effective Feedback: Providing Specific and Actionable Feedback
+Providing Specific and Actionable Feedback
 ===================================================================================
 
 Providing specific and actionable feedback is essential for promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for providing specific and actionable feedback that promotes improvement and development.

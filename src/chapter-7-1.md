@@ -1,4 +1,4 @@
-Chapter 7: Encouraging Positive Performance Through Feedback: Recognizing and Rewarding Positive Performance
+Recognizing and Rewarding Positive Performance
 ============================================================================================================
 
 Encouraging positive performance is essential for effective feedback in the workplace. In this chapter, we will explore the techniques and strategies necessary for recognizing and rewarding positive performance.

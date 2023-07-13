@@ -1,4 +1,4 @@
-Chapter 8: Implementing Feedback in Teams and Organizations: Navigating Cultural and Organizational Barriers to Feedback
+Navigating Cultural and Organizational Barriers to Feedback
 ========================================================================================================================
 
 Implementing feedback practices can present cultural and organizational barriers that hinder personal and professional growth in the workplace. In this chapter, we will explore strategies for navigating cultural and organizational barriers to feedback.

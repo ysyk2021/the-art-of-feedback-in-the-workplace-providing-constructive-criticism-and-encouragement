@@ -1,4 +1,4 @@
-Chapter 9: Conclusion - Mastering the Art of Feedback: Best Practices for Providing and Receiving Feedback in the Workplace
+Best Practices for Providing and Receiving Feedback in the Workplace
 ===========================================================================================================================
 
 Providing and receiving feedback is essential for building a positive and productive workplace culture. In this book, "The Art of Feedback in the Workplace: Providing Constructive Criticism and Encouragement," we have explored best practices for providing and receiving feedback effectively.

@@ -1,4 +1,4 @@
-Chapter 1: Introduction to Feedback in the Workplace: Historical Perspectives on Feedback Theory and Practice
+Historical Perspectives on Feedback Theory and Practice
 =============================================================================================================
 
 The concept of feedback has been studied and applied in various fields, including engineering, psychology, and management. In this chapter, we will explore the historical perspectives on feedback theory and practice.

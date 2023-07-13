@@ -1,4 +1,4 @@
-Chapter 1: Introduction to Feedback in the Workplace: The Challenges and Opportunities of Providing Feedback in the Workplace
+The Challenges and Opportunities of Providing Feedback in the Workplace
 =============================================================================================================================
 
 Feedback is a critical component of employee growth and development. In this chapter, we will explore the challenges and opportunities of providing feedback in the workplace.

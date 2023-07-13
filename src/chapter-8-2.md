@@ -1,4 +1,4 @@
-Chapter 8: Implementing Feedback in Teams and Organizations: Scaling Feedback Practices Across Teams and Organizations
+Scaling Feedback Practices Across Teams and Organizations
 ======================================================================================================================
 
 Implementing feedback practices across teams and organizations is essential for creating a culture of continuous learning and development. In this chapter, we will explore strategies for scaling feedback practices across teams and organizations.

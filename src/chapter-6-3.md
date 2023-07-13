@@ -1,4 +1,4 @@
-Chapter 6: Addressing Performance Issues through Feedback: Developing Performance Improvement Plans and Monitoring Progress
+Developing Performance Improvement Plans and Monitoring Progress
 ===========================================================================================================================
 
 Developing performance improvement plans and monitoring progress is an essential part of addressing performance issues in the workplace. In this chapter, we will explore strategies for developing performance improvement plans and monitoring progress.

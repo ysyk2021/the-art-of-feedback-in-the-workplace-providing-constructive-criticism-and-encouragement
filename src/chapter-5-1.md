@@ -1,4 +1,4 @@
-Chapter 5: Receiving and Responding to Feedback: Strategies for Receiving Feedback with Openness and Curiosity
+Strategies for Receiving Feedback with Openness and Curiosity
 ==============================================================================================================
 
 Receiving feedback is an essential part of personal and professional growth in the workplace. However, it can be challenging to receive feedback, particularly if it is critical or unexpected. In this chapter, we will explore strategies for receiving feedback with openness and curiosity.

@@ -1,4 +1,4 @@
-Chapter 7: Encouraging Positive Performance Through Feedback: Motivating Employees Through Feedback and Recognition
+Motivating Employees Through Feedback and Recognition
 ===================================================================================================================
 
 Encouraging positive performance is essential for effective feedback in the workplace. In this chapter, we will explore the techniques and strategies necessary for motivating employees through feedback and recognition.

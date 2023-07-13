@@ -1,4 +1,4 @@
-Chapter 4: Providing Effective Feedback: Addressing Difficult or Sensitive Topics with Empathy and Respect
+Addressing Difficult or Sensitive Topics with Empathy and Respect
 ==========================================================================================================
 
 Providing effective feedback is essential for promoting personal and professional growth in the workplace. However, addressing difficult or sensitive topics can be challenging and requires empathy and respect. In this chapter, we will explore strategies for providing effective feedback that addresses difficult or sensitive topics with empathy and respect.

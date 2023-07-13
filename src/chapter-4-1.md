@@ -1,4 +1,4 @@
-Chapter 4: Providing Effective Feedback: Strategies for Delivering Feedback Effectively
+Strategies for Delivering Feedback Effectively
 =======================================================================================
 
 Delivering feedback effectively is essential for promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for delivering feedback effectively.
