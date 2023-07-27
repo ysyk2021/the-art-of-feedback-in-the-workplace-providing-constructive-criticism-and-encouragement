@@ -1,0 +1,1 @@
+for the book "the art of feedback in the workplace providing constructive criticism and encouragement", write a chapter: "navigating cultural and organizational barriers to feedback".  Use Markdown format. Use English.

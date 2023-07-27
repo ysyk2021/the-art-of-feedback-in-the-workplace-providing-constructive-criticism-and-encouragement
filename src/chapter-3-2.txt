@@ -1,0 +1,1 @@
+for the book "the art of feedback in the workplace providing constructive criticism and encouragement", write a chapter: "establishing norms and expectations around feedback".  Use Markdown format. Use English.
