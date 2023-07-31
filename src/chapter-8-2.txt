@@ -1,1 +1,0 @@
-for the book "the art of feedback in the workplace providing constructive criticism and encouragement", write a chapter: "scaling feedback practices across teams and organizations".  Use Markdown format. Use English.

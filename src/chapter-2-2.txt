@@ -1,1 +1,0 @@
-for the book "the art of feedback in the workplace providing constructive criticism and encouragement", write a chapter: "understanding the different types of feedback".  Use Markdown format. Use English.
