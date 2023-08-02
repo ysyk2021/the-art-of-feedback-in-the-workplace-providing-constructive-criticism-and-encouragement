@@ -3,14 +3,6 @@ Recognizing and Rewarding Positive Performance
 
 Encouraging positive performance is essential for effective feedback in the workplace. In this chapter, we will explore the techniques and strategies necessary for recognizing and rewarding positive performance.
 
-Effective feedback in the workplace involves:
-
-* Focusing on positive performance
-* Providing timely and specific feedback
-* Creating a culture of recognition and appreciation
-* Encouraging ongoing growth and development
-* Celebrating successes and milestones
-
 Focusing on Positive Performance
 --------------------------------
 
