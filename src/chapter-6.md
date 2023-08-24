@@ -1,5 +1,3 @@
-Chapter 6: Addressing Performance Issues through Feedback
-=========================================================
 
 Addressing performance issues is a critical component of effective management and leadership. In this chapter, we will explore strategies for identifying performance issues, addressing them through constructive feedback, and developing performance improvement plans to promote growth and development.
 

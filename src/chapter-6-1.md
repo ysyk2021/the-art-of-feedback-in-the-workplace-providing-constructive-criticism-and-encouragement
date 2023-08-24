@@ -1,5 +1,3 @@
-Identifying Performance Issues and Setting Clear Expectations
-========================================================================
 
 In this chapter, we will explore the crucial steps of identifying performance issues and setting clear expectations when providing constructive criticism and encouragement in the workplace.
 

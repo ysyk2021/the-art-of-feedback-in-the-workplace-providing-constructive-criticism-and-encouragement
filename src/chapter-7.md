@@ -1,5 +1,3 @@
-Chapter 7: Encouraging Positive Performance Through Feedback
-============================================================
 
 Encouraging positive performance is a critical component of effective leadership and management. In this chapter, we will explore strategies for recognizing and rewarding positive performance, motivating employees through feedback and recognition, and encouraging continuous learning and development through feedback.
 

@@ -1,5 +1,3 @@
-Navigating Emotional Reactions to Feedback
-======================================================
 
 In this chapter, we will explore how to navigate emotional reactions to feedback in the workplace. Receiving feedback can elicit a range of emotions, and effectively managing these emotions is crucial for personal growth and maintaining a positive work environment. Let's delve into strategies for navigating emotional reactions to feedback.
 

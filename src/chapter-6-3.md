@@ -1,5 +1,3 @@
-Developing Performance Improvement Plans and Monitoring Progress
-===========================================================================
 
 In this chapter, we will explore the process of developing performance improvement plans (PIPs) and monitoring progress as part of an effective feedback system in the workplace.
 

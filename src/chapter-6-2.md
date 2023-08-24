@@ -1,5 +1,3 @@
-Addressing Performance Issues through Constructive Feedback
-======================================================================
 
 Constructive feedback plays a vital role in addressing performance issues and promoting growth and development in the workplace. This chapter explores the importance of effectively addressing performance issues through constructive feedback and provides strategies for providing feedback that fosters improvement and encouragement.
 

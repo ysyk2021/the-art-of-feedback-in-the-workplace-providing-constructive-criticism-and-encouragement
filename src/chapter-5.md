@@ -1,5 +1,3 @@
-Chapter 5: Receiving and Responding to Feedback
-===============================================
 
 Receiving and responding to feedback is a critical component of personal and professional growth. In this chapter, we will explore strategies for receiving feedback with openness and curiosity, navigating emotional reactions to feedback, and implementing feedback effectively to achieve personal and professional growth.
 

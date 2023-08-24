@@ -1,5 +1,3 @@
-Motivating Employees Through Feedback and Recognition
-=================================================================
 
 In this chapter, we will explore how feedback and recognition can be powerful tools for motivating employees in the workplace. Providing constructive feedback and genuine recognition not only boosts morale but also enhances employee engagement and performance. Let's delve into strategies for motivating employees through feedback and recognition.
 

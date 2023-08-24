@@ -1,5 +1,3 @@
-Understanding the Different Types of Feedback
-=========================================================
 
 In this chapter, we will explore the different types of feedback that can be used in the workplace. Understanding these types of feedback helps managers and employees provide tailored feedback that addresses specific needs and encourages growth and improvement. Let's delve into the various categories of feedback.
 

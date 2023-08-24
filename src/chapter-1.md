@@ -1,5 +1,3 @@
-Chapter 1: Introduction to Feedback in the Workplace
-====================================================
 
 Feedback is a critical component of personal and professional growth in the workplace. In this chapter, we will explore the definition of feedback and its importance in the workplace, historical perspectives on feedback theory and practice, and the challenges and opportunities of providing feedback in the workplace.
 

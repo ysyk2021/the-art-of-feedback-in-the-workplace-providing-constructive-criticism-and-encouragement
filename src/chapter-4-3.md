@@ -1,5 +1,3 @@
-Providing Specific and Actionable Feedback
-=====================================================
 
 In this chapter, we will delve into the art of providing specific and actionable feedback in the workplace. Specific and actionable feedback is essential for employees to understand areas of improvement and take tangible steps towards growth. Let's explore the strategies and techniques for delivering effective feedback.
 

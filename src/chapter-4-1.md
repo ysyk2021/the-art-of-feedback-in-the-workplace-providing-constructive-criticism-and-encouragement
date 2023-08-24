@@ -1,5 +1,3 @@
-Strategies for Delivering Feedback Effectively
-=========================================================
 
 Effective delivery of feedback is essential in creating a positive and productive work environment. This chapter explores strategies for delivering feedback in a manner that fosters growth, encourages improvement, and maintains relationships between managers and employees.
 

@@ -1,5 +1,3 @@
-Historical Perspectives on Feedback Theory and Practice
-===================================================================
 
 In this chapter, we will explore the historical perspectives on feedback theory and practice. Understanding the evolution of feedback concepts provides valuable insights into how feedback has been perceived, studied, and applied over time. By examining the contributions of influential theorists and researchers, we can gain a deeper appreciation for the art of feedback in the workplace.
 

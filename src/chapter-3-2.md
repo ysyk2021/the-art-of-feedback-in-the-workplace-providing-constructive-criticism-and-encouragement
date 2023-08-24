@@ -1,5 +1,3 @@
-Establishing Norms and Expectations Around Feedback
-===============================================================
 
 In this chapter, we will explore the importance of establishing norms and expectations around feedback in the workplace. Clear guidelines and a shared understanding of how feedback should be given and received create a culture that values open communication, growth, and continuous improvement. Let's delve into strategies for establishing norms and expectations around feedback.
 

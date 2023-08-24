@@ -1,5 +1,3 @@
-Addressing Difficult or Sensitive Topics with Empathy and Respect
-============================================================================
 
 In this chapter, we will explore the essential skills of addressing difficult or sensitive topics with empathy and respect when providing feedback in the workplace. Communicating about challenging subjects requires tact, sensitivity, and a focus on maintaining positive relationships. Let's delve into effective strategies for handling these conversations.
 

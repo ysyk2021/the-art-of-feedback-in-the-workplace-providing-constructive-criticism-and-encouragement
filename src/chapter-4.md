@@ -1,5 +1,3 @@
-Chapter 4: Providing Effective Feedback
-=======================================
 
 Providing effective feedback is a critical skill for promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for delivering feedback effectively, addressing difficult or sensitive topics with empathy and respect, and providing specific and actionable feedback.
 

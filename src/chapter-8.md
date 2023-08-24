@@ -1,5 +1,3 @@
-Chapter 8: Implementing Feedback in Teams and Organizations
-===========================================================
 
 Implementing effective feedback practices in teams and organizations requires a strategic approach that takes into account the unique needs and challenges of each group. In this chapter, we will explore strategies for creating feedback programs and initiatives, scaling feedback practices across teams and organizations, and navigating cultural and organizational barriers to feedback.
 
@@ -42,5 +40,4 @@ Conclusion
 ----------
 
 Implementing effective feedback practices in teams and organizations requires a strategic, structured, and sensitive approach that takes into account the unique needs and challenges of each group. By creating feedback programs and initiatives, scaling feedback practices across teams and organizations, and navigating cultural and organizational barriers to feedback, individuals and organizations can create a culture of continuous improvement and growth that promotes personal and professional development, innovation, and success.
-
 

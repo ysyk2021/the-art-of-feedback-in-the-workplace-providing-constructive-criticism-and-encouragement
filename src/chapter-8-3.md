@@ -1,5 +1,3 @@
-Navigating Cultural and Organizational Barriers to Feedback
-======================================================================
 
 In a diverse workplace, feedback practices must navigate cultural and organizational barriers to ensure their effectiveness. Cultural differences, hierarchical structures, and varying communication styles can create challenges in giving and receiving feedback. This chapter explores strategies for navigating these barriers and creating a culture of effective feedback that transcends cultural and organizational boundaries.
 

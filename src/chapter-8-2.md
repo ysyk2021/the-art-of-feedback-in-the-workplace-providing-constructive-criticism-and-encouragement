@@ -1,5 +1,3 @@
-Scaling Feedback Practices Across Teams and Organizations
-====================================================================
 
 Scaling feedback practices across teams and organizations is essential for creating a culture of continuous improvement and development. It involves establishing effective processes, promoting accountability, and fostering a supportive environment where feedback can thrive. In this chapter, we will explore strategies and considerations for scaling feedback practices to benefit a broader scope of individuals.
 

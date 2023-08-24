@@ -1,5 +1,3 @@
-Chapter 3: Creating a Culture of Feedback
-=========================================
 
 Creating a culture of feedback is essential for promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for building trust and rapport among colleagues, establishing norms and expectations around feedback, and encouraging open communication and constructive feedback.
 

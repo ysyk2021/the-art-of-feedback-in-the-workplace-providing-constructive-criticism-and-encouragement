@@ -1,5 +1,3 @@
-Creating Feedback Programs and Initiatives
-=======================================================================================================
 
 Creating feedback programs and initiatives is an effective way to promote personal and professional growth in the workplace. In this chapter, we will explore strategies for creating feedback programs and initiatives.
 

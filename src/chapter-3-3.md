@@ -1,5 +1,3 @@
-Encouraging Open Communication and Constructive Feedback
-===================================================================================================
 
 Creating a culture of feedback is essential for promoting personal and professional growth in the workplace. In this chapter, we will explore strategies for encouraging open communication and constructive feedback.
 
